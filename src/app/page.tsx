@@ -28,7 +28,7 @@ export default function LandingPage() {
             Empowering Lives with Interest-Free Loans
           </h1>
           <p className="text-lg md:text-xl mb-8">
-            Whether it's for your wedding, home, business, or education, we are
+            Whether it is for your wedding, home, business, or education, we are
             here to help you achieve your dreams.
           </p>
           <Link
